@@ -25,3 +25,6 @@
 - **GDI+**：用于图像处理和显示。
 - **DirectX**：用于硬件加速和图形渲染。
 编译后大小为1.1Mb
+![赞赏码](https://github.com/Mao-jh/STGC-Small_Trace_Grab_Cast/blob/main/Support%20_.png "扫码赞赏")
+
+
