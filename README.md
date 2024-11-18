@@ -24,7 +24,7 @@
 - **Windows API**：用于窗口管理和用户交互。
 - **GDI+**：用于图像处理和显示。
 - **DirectX**：用于硬件加速和图形渲染。
-编译后大小为1.1Mb
+编译后大小为0.11kb
 ## 联系:MaxMao_HE@163.com
 ## 支持我
 ![赞赏码](https://github.com/Mao-jh/STGC-Small_Trace_Grab_Cast/blob/main/Support.png "扫码赞赏")
